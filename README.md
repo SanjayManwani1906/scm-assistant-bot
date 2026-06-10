@@ -26,15 +26,16 @@ https://cloud.flowiseai.com/chatbot/5ef2a9bf-e96a-46dd-a917-62407a95adba
 
 | File | Chunks |
 |------|--------|
-| SupplyChain_Governance_Policy_v3.2.pdf | TBD |
-| supplier_performance_data.csv | TBD |
+| SupplyChain_Governance_Policy_v3.2.pdf | 19 |
+| supplier_performance_data.csv | 2000 |
 
 ### Configuration 2 — Chunk Size: 600, Overlap: 100
 
 | File | Chunks |
 |------|--------|
-| SupplyChain_Governance_Policy_v3.2.pdf | TBD |
-| supplier_performance_data.csv | TBD |
+| SupplyChain_Governance_Policy_v3.2.pdf | 30 |
+| supplier_performance_data.csv | 3999
+|
 
 ### Why Configuration 1 Was Selected
 
